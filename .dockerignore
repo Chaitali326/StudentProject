@@ -1,0 +1,22 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment files
+.env
+env/
+venv/
+
+# Ignore unnecessary system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+.vscode/
+*.log
+
+# Ignore build files
+build/
+dist/
